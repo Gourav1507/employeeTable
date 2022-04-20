@@ -1,0 +1,38 @@
+[
+ {
+   "id": 1,
+   "fullName": "Gaurav",
+   "address": "Civil lines, Gurgaon",
+   "phoneNumber": "9729869797",
+   "email": "gauravjangra566@gmail.com"
+ },
+ {
+   "id": 2,
+   "fullName": "Nitin",
+   "address": "Udyog Vihar, Gurgaon",
+   "phoneNumber": "9729292929",
+   "email": "Nitincbre@gmail.com"
+ },
+ {
+   "id": 3,
+   "fullName": "Rahul",
+   "address": "Sector 31, Gurgaon",
+   "phoneNumber": "9999999555",
+   "email": "Rahulcbre@gmail.com"
+ },
+ {
+   "id": 4,
+   "fullName": "Sachin",
+   "address": "Sector 15, Gurgaon",
+   "phoneNumber": "7876787678",
+   "email": "Sachincbre@gmail.com"
+ },
+ {
+   "id": 5,
+   "fullName": "Geetansh",
+   "address": "Sector 23, Gurgaon",
+   "phoneNumber": "7878787878",
+   "email": "geetanshcbre@gmail.com"
+ }
+]
+
